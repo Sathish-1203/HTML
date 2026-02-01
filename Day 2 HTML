@@ -1,0 +1,41 @@
+Day 2 HTML 
+✅ 1. <div> Tag (Division)
+👉 What is <div>?
+<div> is a container used to group HTML elements together.
+It helps to:
+✔ Organize content
+✔ Apply style later
+✔ Control layout
+
+✅ 2. id Attribute
+👉 What is id?
+id is a unique name for one element.
+👉 One page = One id only once ❗
+👉 Used for:
+
+✔ Identifying one element
+✔ JavaScript
+✔ CSS
+✔ Linking
+
+✅ 3. class Attribute
+👉 What is class?
+class is used to give same name to many elements.
+👉 You can reuse class many times ✅
+👉 Used for:
+
+✔ Styling group of elements
+✔ Grouping similar items
+✔ JavaScript
+
+div → container
+id="main" → unique
+class="container" → group style
+Real-Life Example (Easy to Remember)
+
+🏫 School Example:
+div → Classroom
+class → Students group (CS, IT, ECE)
+id → Roll number (unique)
+
+I have Created the Bookstore page 
